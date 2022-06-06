@@ -1,4 +1,5 @@
-html, body {
+html,
+body {
   margin: 0;
   padding: 0;
   color: white;
@@ -19,7 +20,7 @@ h1 {
 hr {
   height: 1px;
   border-width: 0;
-  color: #C3C6DB;
+  color: #c3c6db;
   background-color: #d5d4d8;
 }
 
@@ -48,7 +49,6 @@ td {
 }
 
 .top-container {
-  padding: 0;
   margin: 0;
   background-color: #3a69d2;
   justify-content: center;
@@ -82,7 +82,7 @@ td {
   height: 40px;
   border-radius: 7px;
   border: none;
-  background-color: #d1d4f4;
+  background: #d1d4f4;
   color: #4a4e74;
 }
 
@@ -119,13 +119,13 @@ td {
   color: #d5d4d8;
 }
 
-.romve-btn:hover {
+.remove-btn:hover {
   font-size: 9px;
   color: #fff;
 }
 
 .currency {
-  color: #C3c6db;
+  color: #c3c6db;
 }
 
 .notification-red {

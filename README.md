@@ -7,9 +7,10 @@
 
 An invoice creator based on the Scrimba Frontend Career Path JS Solo Project 3; Figma Design: https://www.figma.com/file/roUn8DT7zHTI9tcL2JXNZG/Invoice-Generator
 
-## [Screenshoot](images/invoice-Creator.png)
+![screenshot](images/Invoice-Creator.png)
 
-## [LiveDemo](https://fatima-hub333.github.io/Invoice-Creator/)
+## [LiveDemo]
+(https://fatima-hub333.github.io/Invoice-Creator/)
 
 ## Built With
 
